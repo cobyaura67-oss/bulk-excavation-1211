@@ -1,0 +1,5 @@
+**Bulk Excavation** is a Fabric mod designed to make large-scale mining and clearing easier and more efficient. Instead of breaking blocks one by one, players can mark two corners of a region and excavate everything inside at once. The mod respects Minecraft’s core mechanics: blocks only drop items when the correct tool is used, tools lose durability as expected, and unbreakable blocks like bedrock are ignored.
+
+The mod is fully configurable through an in-game settings screen (via Cloth Config and Mod Menu). Players can adjust the maximum allowed excavation volume, toggle whether tools are required, choose if loot should drop, and control logging behavior. This flexibility makes **Bulk Excavation** useful for both survival players who want balance and modpack creators who want customization.
+
+Whether you’re clearing land for a base, mining out a cavern, or just speeding up tedious block removal, Bulk Excavation keeps the gameplay balanced while giving you powerful, customizable excavation tools.
